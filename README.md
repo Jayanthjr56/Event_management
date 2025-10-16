@@ -24,7 +24,11 @@ Backend: Node.js + Express
 Database: MongoDB
 
 ##  Screenshots
+![Dashboard](./sources/Events_dashboard.png)
 
+![Attendee](./sources/Attendees.png)
+
+![Task_assignment](./sources/Tasks_assignment.png)
 
 ## Installation & Setup
 
